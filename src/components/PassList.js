@@ -14,7 +14,7 @@ import List, {
 import Button from 'material-ui/Button'
 import IconButton from 'material-ui/IconButton'
 import Snackbar from 'material-ui/Snackbar'
-import CloseIcon from '@material-ui/icons/Close'
+import CloseIcon from 'material-ui-icons/Close'
 
 import { getPassList } from '../db/passdb'
 import PassItem from './PassItem'

@@ -5,7 +5,7 @@ import { connect } from 'react-redux'
 import IconButton from 'material-ui/IconButton'
 import Tooltip from 'material-ui/Tooltip'
 import { ListItem, ListItemText } from 'material-ui/List'
-import ContentCopy from '@material-ui/icons/ContentCopy'
+import ContentCopy from 'material-ui-icons/ContentCopy'
 import copy from 'copy-to-clipboard'
 
 import store from '../store/configureStore'
